@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background: #f0f0f0;
+  }
+  
+  .login-box {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background: white;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  button {
+    padding: 10px;
+    width: 100%;
+    background: blue;
+    color: white;
+    border: none;
+  }
+  
+  #message {
+    margin-top: 10px;
+    color: red;
+  }
